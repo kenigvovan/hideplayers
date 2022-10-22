@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "hideplayers",
+  "name": "hideplayers",
+  "author": "KenigVovan",
+  "side": "server",
+  "description": "(V)_(x_x)_(v)",
+  "version": "0.1.0",
+  "dependency": {
+    "game": ""
+  }
+}
